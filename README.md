@@ -16,5 +16,8 @@ A simple front-end **Spotify Clone** built using **HTML** and **CSS** to replica
 - 🎧 Clean, responsive Spotify-like layout  
 - 🎵 Navigation sidebar and music player footer  
 - 🔎 Search bar and featured albums section  
-- 📱 Responsive for desktop and tablet views (if applicable)
+- 📱 Responsive for desktop and tablet views
 
+🤝 Acknowledgements
+	•	Inspired by Spotify
+	•	Icons used from Font Awesome 
