@@ -18,4 +18,3 @@ A simple front-end **Spotify Clone** built using **HTML** and **CSS** to replica
 - 🔎 Search bar and featured albums section  
 - 📱 Responsive for desktop and tablet views (if applicable)
 
-## 📁 Folder Structure
